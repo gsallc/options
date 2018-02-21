@@ -1,0 +1,3 @@
+For vs2017 environment.
+1) For every new project, we need include the quantlib and boost directory. We also need to reference their lib directory.
+2) You may see errors because of using depreciation function. To solve this problem, we need to set in Project properties->Configuration Properties->C/C++->Preprocessor->Preprocessor Definitions
